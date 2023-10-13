@@ -7,7 +7,6 @@
 </div>
 
 [![LucianoMarcos's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=lucianomarcosjr&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/lucianomarcosjr/github-readme-stats#gh-dark-mode-only)
-[![LucianoMarcos's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=lucianomarcosjr&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/lucianomarcosjr/github-readme-stats#gh-light-mode-only)
 
 <div>
   Iniciei na área de TI em 2015, operando na parte técnica de um call center, gerenciando o CRM de cobrança (integração de layout para importação de dados no sistema, elaboração de regras de negociação para utilização operacional, suporte local nos computadores e analise técnica dos sistemas utilizados).<br>
