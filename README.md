@@ -6,8 +6,6 @@
    desde 2014.
 </div>
 
-![LucianoMarcos's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=lucianomarcosjr)
-
 <div>
   Iniciei na área de TI em 2015, operando na parte técnica de um call center, gerenciando o CRM de cobrança (integração de layout para importação de dados no sistema, elaboração de regras de negociação para utilização operacional, suporte local nos computadores e analise técnica dos sistemas utilizados).<br>
   Em 2018 mudei de ramo, tralho atualmente com Cloud Computing, e desde então a tela preta do terminal é minha área de trabalho. Algumas das ferramentas que utilizo no dia a dia:<br>
