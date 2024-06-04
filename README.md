@@ -18,3 +18,6 @@
 <img align="center" "alt=grafana" heigh="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg">
 <img align="center" "alt=aws" heigh="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
 </div>
+<div>
+  Em 2019 por experiências profissionais com o lado oculto da internet, comecei a estudar sobre segurança da informação e segurança ofensiva.
+</div>
